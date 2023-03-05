@@ -5,3 +5,4 @@ for word in x.split():
         print('ого! это слово редкое')
     else:
         print('эх, это не редкое слово')
+
